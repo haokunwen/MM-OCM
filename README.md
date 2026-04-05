@@ -3,12 +3,12 @@
 
 ## Authors
 
-**Weili Guan**<sup>1</sup>, **Haokun Wen**<sup>2</sup>, **Xuemeng Song**<sup>2</sup>, **Chung-Hsing Yeh**<sup>1</sup>, **Xiaojun Chang**<sup>3</sup>, **Liqiang Nie**<sup>2</sup>
+**Weili Guan**<sup>1</sup>, **Haokun Wen**<sup>2</sup>, **Xuemeng Song**<sup>2</sup>\*, **Chung-Hsing Yeh**<sup>1</sup>, **Xiaojun Chang**<sup>3</sup>\*, **Liqiang Nie**<sup>2</sup>
 
 <sup>1</sup> Monash University, Melbourne, VIC, Australia  
 <sup>2</sup> Shandong University, Jinan, Shandong, China  
 <sup>3</sup> RMIT University, Melbourne, VIC, Australia
-
+\* Corresponding authors
 ## Links
 
 - **Paper**: [ACM DL](https://dl.acm.org/doi/10.1145/3474085.3475392)
